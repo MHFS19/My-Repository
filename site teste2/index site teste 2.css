@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+}
+h1
+{
+    color:rgb(255, 255, 255);
+    margin-top: 25px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.blue-subtitle
+{
+    color:blue;
+}
+
+.corpo
+{
+    background-color: #333333;
+    height: 100vh;
+    
+}
+
+img
+{
+    border-radius: 3%;
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub
+{
+    align-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.importancia
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    color: white;
+    text-align: center;
+}
+
+p
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    color: white;
+    text-align: center;
+}
